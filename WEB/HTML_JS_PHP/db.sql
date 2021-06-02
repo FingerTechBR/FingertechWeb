@@ -1,0 +1,8 @@
+CREATE DATABASE clients;
+USE clients;
+CREATE TABLE client (
+  id INT NOT NULL AUTO_INCREMENT,
+  name VARCHAR(50) NOT NULL,
+  template VARCHAR(500) NULL,
+  PRIMARY KEY(id)
+);

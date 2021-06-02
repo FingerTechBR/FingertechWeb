@@ -1,0 +1,18 @@
+html, body {
+	height: 100%;
+}
+.container {
+	min-height: 91%;
+}
+.btn {
+	font-weight: bold;
+}
+
+.footer {
+	position: auto;
+	left: 0;
+	bottom: -10px;
+	width: 100%;
+	background-color: #f5f5f5;
+	text-align: center;
+}

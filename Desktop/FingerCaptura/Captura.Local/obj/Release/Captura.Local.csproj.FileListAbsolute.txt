@@ -1,0 +1,181 @@
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\Captura.Local.exe.config
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\Captura.Local.exe
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\Captura.Local.pdb
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\Captura.Api.dll
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\Microsoft.Owin.Diagnostics.dll
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\Microsoft.Owin.dll
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\Microsoft.Owin.Hosting.dll
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\Owin.dll
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\System.Web.Http.dll
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\NITGEN.SDK.NBioBSP.dll
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\System.Web.Http.WebHost.dll
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\Microsoft.Owin.Cors.dll
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\System.Web.Http.Owin.dll
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\Newtonsoft.Json.dll
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\System.Web.Cors.dll
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\Captura.Api.pdb
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\Microsoft.Owin.xml
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\Microsoft.Owin.Diagnostics.xml
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\Microsoft.Owin.Hosting.xml
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\System.Web.Http.xml
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\System.Web.Http.WebHost.xml
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\Microsoft.Owin.Cors.xml
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\System.Web.Http.Owin.xml
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\bin\Release\Newtonsoft.Json.xml
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\obj\Release\Captura.Local.csprojResolveAssemblyReference.cache
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\obj\Release\Captura.Local.csproj.Captura.Local.exe.config
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\obj\Release\Captura.Local.Form1.resources
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\obj\Release\Captura.Local.Properties.Resources.resources
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\obj\Release\Captura.Local.csproj.GenerateResource.Cache
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\obj\Release\Captura.Local.exe
+C:\Users\TIINTER13\Desktop\Lixo\web api gabu\Captura\Captura.Local\obj\Release\Captura.Local.pdb
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\Captura.Local.exe.config
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\obj\Release\Captura.Local.exe
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\obj\Release\Captura.Local.pdb
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\Captura.Local.exe
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\Captura.Local.pdb
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\Captura.Api.dll
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\Microsoft.Owin.Diagnostics.dll
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\Microsoft.Owin.dll
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\Microsoft.Owin.Hosting.dll
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\Owin.dll
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\System.Web.Http.dll
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\System.Web.Http.WebHost.dll
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\Microsoft.Owin.Cors.dll
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\System.Web.Http.Owin.dll
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\Newtonsoft.Json.dll
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\System.Web.Cors.dll
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\Captura.Api.pdb
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\Microsoft.Owin.xml
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\Microsoft.Owin.Diagnostics.xml
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\Microsoft.Owin.Hosting.xml
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\System.Web.Http.xml
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\System.Web.Http.WebHost.xml
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\Microsoft.Owin.Cors.xml
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\System.Web.Http.Owin.xml
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\bin\Release\Newtonsoft.Json.xml
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\obj\Release\Captura.Local.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\obj\Release\Captura.Local.csproj.Captura.Local.exe.config
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\obj\Release\Captura.Local.Form1.resources
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\obj\Release\Captura.Local.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\web api gabu\Captura\Captura.Local\obj\Release\Captura.Local.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Captura.Local.exe.config
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\obj\Release\Captura.Local.exe
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\obj\Release\Captura.Local.pdb
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\obj\Release\Captura.Local.csproj.Captura.Local.exe.config
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\obj\Release\Captura.Local.Form1.resources
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\obj\Release\Captura.Local.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\obj\Release\Captura.Local.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Captura.Local.exe
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Captura.Local.pdb
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Captura.Api.dll
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Microsoft.Owin.Diagnostics.dll
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Microsoft.Owin.dll
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Microsoft.Owin.Hosting.dll
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Owin.dll
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\System.Web.Http.dll
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\System.Web.Http.WebHost.dll
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Microsoft.Owin.Cors.dll
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\System.Web.Http.Owin.dll
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Newtonsoft.Json.dll
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\System.Web.Cors.dll
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Captura.Api.pdb
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Microsoft.Owin.xml
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Microsoft.Owin.Diagnostics.xml
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Microsoft.Owin.Hosting.xml
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\System.Web.Http.xml
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\System.Web.Http.WebHost.xml
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Microsoft.Owin.Cors.xml
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\System.Web.Http.Owin.xml
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Newtonsoft.Json.xml
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\obj\Release\Captura.Local.frmPopUp.resources
+C:\Users\Gabriel\Desktop\web api Captura\Captura\Captura.Local\obj\Release\Captura.Local.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Captura.Local.exe.config
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\obj\Release\Captura.Local.exe
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\obj\Release\Captura.Local.pdb
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Captura.Local.exe
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Captura.Local.pdb
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Captura.Api.dll
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Microsoft.Owin.Diagnostics.dll
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Microsoft.Owin.dll
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Microsoft.Owin.Hosting.dll
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Owin.dll
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\System.Web.Http.dll
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\NITGEN.SDK.NBioBSP.dll
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\System.Web.Http.WebHost.dll
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Microsoft.Owin.Cors.dll
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\System.Web.Http.Owin.dll
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Newtonsoft.Json.dll
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\System.Web.Cors.dll
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Captura.Api.pdb
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Microsoft.Owin.xml
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Microsoft.Owin.Diagnostics.xml
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Microsoft.Owin.Hosting.xml
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\System.Web.Http.xml
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\System.Web.Http.WebHost.xml
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Microsoft.Owin.Cors.xml
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\System.Web.Http.Owin.xml
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\bin\Release\Newtonsoft.Json.xml
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\obj\Release\Captura.Local.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\obj\Release\Captura.Local.csproj.Captura.Local.exe.config
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\obj\Release\Captura.Local.Form1.resources
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\obj\Release\Captura.Local.frmPopUp.resources
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\obj\Release\Captura.Local.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Desktop\web api Captura\Captura\Captura.Local\obj\Release\Captura.Local.csproj.GenerateResource.Cache
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\Captura.Api.dll
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\Microsoft.Owin.Diagnostics.dll
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\Microsoft.Owin.dll
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\Microsoft.Owin.Host.HttpListener.dll
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\Microsoft.Owin.Hosting.dll
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\Owin.dll
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\System.Web.Http.dll
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\NITGEN.SDK.NBioBSP.dll
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\System.Web.Http.WebHost.dll
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\Microsoft.Owin.Cors.dll
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\System.Web.Http.Owin.dll
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\System.Net.Http.Formatting.dll
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\Newtonsoft.Json.dll
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\System.Web.Cors.dll
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\Captura.Api.pdb
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\Microsoft.Owin.xml
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\Microsoft.Owin.Diagnostics.xml
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\Microsoft.Owin.Host.HttpListener.xml
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\Microsoft.Owin.Hosting.xml
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\System.Web.Http.xml
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\System.Web.Http.WebHost.xml
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\Microsoft.Owin.Cors.xml
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\System.Web.Http.Owin.xml
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\System.Net.Http.Formatting.xml
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\Newtonsoft.Json.xml
+D:\FingerDSV\FingerCaptura\Captura.Local\obj\Release\Captura.Local.csprojResolveAssemblyReference.cache
+D:\FingerDSV\FingerCaptura\Captura.Local\obj\Release\Captura.Local.Form1.resources
+D:\FingerDSV\FingerCaptura\Captura.Local\obj\Release\Captura.Local.Properties.Resources.resources
+D:\FingerDSV\FingerCaptura\Captura.Local\obj\Release\Captura.Local.csproj.GenerateResource.Cache
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\Fingertech Web.exe.config
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\Fingertech Web.exe
+D:\FingerDSV\FingerCaptura\Captura.Local\bin\Release\Fingertech Web.pdb
+D:\FingerDSV\FingerCaptura\Captura.Local\obj\Release\Captura.Local.csproj.Fingertech Web.exe.config
+D:\FingerDSV\FingerCaptura\Captura.Local\obj\Release\Fingertech Web.exe
+D:\FingerDSV\FingerCaptura\Captura.Local\obj\Release\Fingertech Web.pdb
+E:\AndréS\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Release\Fingertech Web.exe.config
+E:\AndréS\FingertechWeb\Desktop\FingerCaptura\Captura.Local\obj\Release\Fingertech Web.exe
+E:\AndréS\FingertechWeb\Desktop\FingerCaptura\Captura.Local\obj\Release\Fingertech Web.pdb
+D:\AndréS\FingertechWeb\Desktop\FingerCaptura\Captura.Local\bin\Release\Fingertech Web.exe.config
+D:\AndréS\FingertechWeb\Desktop\FingerCaptura\Captura.Local\obj\Release\Fingertech Web.exe
+D:\AndréS\FingertechWeb\Desktop\FingerCaptura\Captura.Local\obj\Release\Fingertech Web.pdb

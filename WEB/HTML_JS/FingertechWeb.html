@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+	<head>
+		<meta charset="utf-8" />
+		<title>Fingertech WEB - Sample HTML + JavaScript</title>
+		<link rel="stylesheet" href="css/bootstrap.css" />
+		<link rel="stylesheet" href="css/fingertechweb.css" />
+	</head>
+	
+	<body>
+		<main role="main" class="container">
+			<div style="text-align: center;">
+				<img src="img/LogoFingertech.png" width="60%" />
+				<h1>Serviço Fingertech Web</h1>
+				<h2 style="color: #AAA;">Exemplo para Captura de Impressão Digital - SDK Nitgen</h2>
+			</div>
+			
+			<br />
+			<div class="form-group row" style="text-align: center">
+				<div class="col-4">
+					<button class="btn btn-primary" id="btn-capture">Capture</button>
+				</div>
+				
+				<div class="col-4">
+					<button class="btn btn-danger" id="btn-enroll">Enroll</button>
+				</div>
+				
+				<div class="col-4">
+					<button class="btn btn-success" id="btn-match">Comparar</button>
+				</div>
+			</div>
+			
+			<br />
+			<div class="row justify-content-center">
+				<h2>Saída dos Métodos (Template)</h2>
+			</div>
+			
+			
+			<div class="form-group row justify-content-center">
+				
+				<div class="col-10 col-form-label align-self-center">
+					<textarea rows="6" class="form-control" id="inputTemplate" readonly></textarea>
+				</div>
+			</div>
+			
+			
+			<div class="row justify-content-center">
+				<h2>Informações</h2>
+			</div>
+			
+			<div class="row" style="padding-left: 80px; padding-right: 80px">
+				<ul>
+					<li>
+						<b>Capture:</b> Obtêm a impressão digital de um único dedo, por usuário.
+					</li>
+					
+					<li>
+						<b>Enroll:</b> Obtêm a impressão digital de um ou mais dedos, por usuário.
+					</li>
+					
+					<li>
+						<b>Comparar:</b> Permite realizar a comparação do último template registrado, com uma nova impressão digital a ser capturada.
+						Se você utilizou o método "Enroll" você poderá comparar a nova impressão digital, com qualquer dedo regitrado anteriormente.
+					</li>
+				</ul>
+			</div>
+		</main>
+		
+		<footer class="footer mt-auto py-3">
+			<div class="container" style="text-align: center;">
+				<span class="text-muted">
+					<b>Fingertech 2019</b> <br /> 
+					<a href="http://www.fingertech.com.br" target="_blank">www.fingertech.com.br</a>
+				</span>
+			</div>
+		</footer>
+	</body>
+	
+	<script type="text/javascript" src="js/jquery-3.3.1.js"></script>
+	<script type="text/javascript" src="js/bootstrap.js"></script>
+	<script type="text/javascript" src="js/fingertechweb.js"></script>
+	
+</html>
